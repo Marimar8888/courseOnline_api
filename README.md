@@ -266,7 +266,7 @@ Este proyecto está bajo la licencia **MIT**. Puedes ver el texto completo de la
 
 ## Créditos
 
-- **Autor del proyecto**: [Maria del Mar Alonso](https://tu-sitio-web-o-perfil.github.io) (si deseas incluir un enlace a tu perfil o sitio web).
+- **Autor del proyecto**: [Maria del Mar Alonso](https://mariadelmar-alonso-portfolio.onrender.com) (si deseas incluir un enlace a tu perfil o sitio web).
 
 ## Documentación
 
